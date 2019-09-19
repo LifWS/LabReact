@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
-//import CharacterCard from './CharacterCard';
 import WordCard from './WordCard';
-const word = "hello";
+import './App.css';
+
 class App extends Component {
   render() {
     return (
       <div>
-        <WordCard value="HALIF\4444444444444444FFFF"/>
+        <WordCard value="hello" />
       </div>
     );
   }
 }
-export default App
+export default App;
