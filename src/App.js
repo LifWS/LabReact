@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <WordCard value="HALIFFFFFFFFFFFFFFFFFFFFF"/>
+        <WordCard value="HALIF\4444444444444444FFFF"/>
       </div>
     );
   }
